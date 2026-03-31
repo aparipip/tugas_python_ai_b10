@@ -1,0 +1,15 @@
+=== RINGKASAN NUMPY ===
+Rata-rata: 73.7
+Median: 71.0
+Standar Deviasi: 11.713667231059622
+Nilai Minimum: 57
+Nilai Maksimum: 92
+
+=== RINGKASAN DATAFRAME ===
+Jumlah data: 5
+Jumlah LULUS: 3
+Jumlah TIDAK LULUS: 2
+
+=== RINGKASAN GRADEBOOK ===
+Rata-rata nilai: 75.8
+Persentase lulus: 60.0%
